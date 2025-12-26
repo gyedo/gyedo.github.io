@@ -10,4 +10,3 @@ After enduring many late nights of hard work and navigating the unexpected event
 When I saw so many people from the various circles she has built visiting her exhibition, I realized she had truly found her footing and established a foundation for her own growth. I am so happy for her and incredibly proud of her. I can’t wait to see where she goes from here.
 
 ![_config.yml]({{ site.baseurl }}/images/jy_accd.png) 
-*My Wife's wall*
