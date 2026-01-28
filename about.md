@@ -10,7 +10,7 @@ and animated feature film production.
 
 ### Projects
 #### DreamWorks  
-• Shrek 5 (2026)  
+• Shrek 5 (2027)  
 • Kung Fu Panda 4 (2024)  
 • Puss in Boots: The Last Wish (2022)  
 • The Croods: A New Age (2020)  
