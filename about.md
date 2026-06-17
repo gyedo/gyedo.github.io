@@ -10,6 +10,7 @@ and animated feature film production.
 
 ### Projects
 #### DreamWorks  
+• "DreamWorks How to Train Your Dragon: Flight Academy" at The Universal Sphere™  
 • Shrek 5 (2027)  
 • Kung Fu Panda 4 (2024)  
 • Puss in Boots: The Last Wish (2022)  
