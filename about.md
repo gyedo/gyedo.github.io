@@ -4,9 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Enthusiastic, seasoned technologist experienced in full-stack development.
-Strong background in computer graphics programming, massively multiplayer online game development, the “Internet of things, applied to play”,
-and animated feature film production.
+A seasoned Technical Director recognized for building the technical infrastructure that powers world-class animated storytelling. With more than two decades of experience across feature animation, MMO game development, IoT smart toys, and large-scale production pipelines, demonstrating a consistent ability to bridge creative ambition with scalable engineering.
+
+Known for architecting systems that endure—including autonomous multi-clip playback frameworks, real-time engine-driven production tools, USD tool suites, and procedural foliage generator used across studio pipelines. These innovations transform complex, multidisciplinary challenges into clear, production-ready solutions that elevate artistic workflows and accelerate delivery.
+
+Expertise spans computer graphics, Maya/MEL/API, USD, real-time engines, distributed systems, and full-stack development. A strong collaborator with artists, production teams, and engineering groups, dedicated to enabling creativity through robust, intuitive, and future-proof tools.
+
+Recipient of multiple DreamWorks Technical Achievement, Technical Initiative, and Ingenuity Awards, highlighting a sustained impact on both technology and studio culture—advancing innovation while empowering teams to create their best work.
+
+Driven by unsolved problems and a commitment to expanding what’s possible on screen, with a continued focus on developing technologies that shape the future of animated storytelling.
 
 ### Projects
 #### DreamWorks  
